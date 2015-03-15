@@ -1,0 +1,28 @@
+c:\users\alex\documents\visual studio 2013\Projects\Juego De Vida\Juego De Vida\bin\Debug\Juego De Vida.exe.config
+c:\users\alex\documents\visual studio 2013\Projects\Juego De Vida\Juego De Vida\obj\Debug\Juego De Vida.csprojResolveAssemblyReference.cache
+c:\users\alex\documents\visual studio 2013\Projects\Juego De Vida\Juego De Vida\bin\Debug\Juego De Vida.exe
+c:\users\alex\documents\visual studio 2013\Projects\Juego De Vida\Juego De Vida\bin\Debug\Juego De Vida.pdb
+c:\users\alex\documents\visual studio 2013\Projects\Juego De Vida\Juego De Vida\obj\Debug\Juego De Vida.exe
+c:\users\alex\documents\visual studio 2013\Projects\Juego De Vida\Juego De Vida\obj\Debug\Juego De Vida.pdb
+c:\users\alex\documents\visual studio 2013\Projects\Juego De Vida\Juego De Vida\obj\Debug\Juego_De_Vida.MasterGUI.resources
+c:\users\alex\documents\visual studio 2013\Projects\Juego De Vida\Juego De Vida\obj\Debug\Juego De Vida.csproj.GenerateResource.Cache
+c:\users\alex\documents\visual studio 2013\Projects\Juego De Vida\Juego De Vida\obj\Debug\Juego_De_Vida.ControlPanel.resources
+c:\users\alex\documents\visual studio 2013\Projects\Juego De Vida\Juego De Vida\bin\Debug\ControlPanel.resx
+c:\users\alex\documents\visual studio 2013\Projects\Juego De Vida\Juego De Vida\bin\Debug\ControlPanel.cs
+c:\users\alex\documents\visual studio 2013\Projects\Juego De Vida\Juego De Vida\bin\Debug\ControlPanel.Designer.cs
+C:\Users\Alex\documents\visual studio 2013\Projects\Juego De Vida\Juego De Vida\obj\Debug\Juego_De_Vida.ControlPanelEx.resources
+C:\Users\Alex\documents\visual studio 2013\Projects\Juego De Vida\Juego De Vida\obj\Debug\Juego_De_Vida.Properties.Resources.resources
+H:\Code\Projects\Juego De Vida\Juego De Vida\bin\Debug\Juego De Vida.exe.config
+H:\Code\Projects\Juego De Vida\Juego De Vida\obj\Debug\Juego De Vida.exe
+H:\Code\Projects\Juego De Vida\Juego De Vida\obj\Debug\Juego De Vida.pdb
+H:\Code\Projects\Juego De Vida\Juego De Vida\bin\Debug\ControlPanel.resx
+H:\Code\Projects\Juego De Vida\Juego De Vida\bin\Debug\ControlPanel.cs
+H:\Code\Projects\Juego De Vida\Juego De Vida\bin\Debug\ControlPanel.Designer.cs
+H:\Code\Projects\Juego De Vida\Juego De Vida\bin\Debug\Juego De Vida.exe
+H:\Code\Projects\Juego De Vida\Juego De Vida\bin\Debug\Juego De Vida.pdb
+H:\Code\Projects\Juego De Vida\Juego De Vida\obj\Debug\Juego De Vida.csprojResolveAssemblyReference.cache
+H:\Code\Projects\Juego De Vida\Juego De Vida\obj\Debug\Juego_De_Vida.ControlPanel.resources
+H:\Code\Projects\Juego De Vida\Juego De Vida\obj\Debug\Juego_De_Vida.ControlPanelEx.resources
+H:\Code\Projects\Juego De Vida\Juego De Vida\obj\Debug\Juego_De_Vida.MasterGUI.resources
+H:\Code\Projects\Juego De Vida\Juego De Vida\obj\Debug\Juego_De_Vida.Properties.Resources.resources
+H:\Code\Projects\Juego De Vida\Juego De Vida\obj\Debug\Juego De Vida.csproj.GenerateResource.Cache
